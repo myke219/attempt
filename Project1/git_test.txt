@@ -1,4 +1,9 @@
 test
 !!!
 
-this is a new line
+
+check mate
+
+and another
+
+more changes
